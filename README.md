@@ -1,2 +1,2 @@
 # ALGORITHMIC-TRADING-STRATEGIES-PRICE-FORECASTING
-FINAL IMPLEMENTATION
+This project deals with time-series modelling of 3 different datasets on linear and nonlinear models. The datasets being used include – Mackey-Glass Chaotic Time series, Simulated ARMA Time Series, S&P 500 daily close values. The linear model is an Autoregressive Moving Average(ARMA) Model. And the nonlinear models include a Time-Delay Neural Network(TDNN) and a Density Neural Network. All three models have been implemented in Python without using libraries.
